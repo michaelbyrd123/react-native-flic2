@@ -107,7 +107,6 @@ public class flic2ButtonCallback extends Flic2ButtonListener {
     }
 
     @Override
-    ios-android-both-work
     public void onAllQueuedButtonEventsProcessed(Flic2Button button) {
       //TODO: Implement if desired
     }
